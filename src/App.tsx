@@ -791,7 +791,7 @@ function Contact() {
                 <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
               </a>
               <a
-                href="https://www.behance.net/delnadavis"
+                href="https://www.behance.net/delnadavis1"
                 target="_blank"
                 rel="noreferrer"
                 className="group flex items-center justify-between rounded-2xl bg-white/10 px-5 py-4 backdrop-blur transition-colors hover:bg-white/20"
