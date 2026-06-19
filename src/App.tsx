@@ -75,7 +75,7 @@ const PROJECTS = [
     description:
       "A ride-sharing app with real-time GPS, secure payments, ride history, and rating — delivering a seamless UI/UX flow.",
     tools: ["Figma", "Illustrator", "Photoshop"],
-    link: "https://share.google/JxokeBNJgYYuPbWvH",
+    link: "https://share.google/3FxffbHD9UaY3eBsI",
     visual: (
       <img
         src={rideMateThumb}
@@ -129,7 +129,7 @@ const PROJECTS = [
     description:
       "A data-dense ERP dashboard concept that organizes complex information into a calm, scannable, and confident interface.",
     tools: ["Figma"],
-    link: "https://share.google/3FxffbHD9UaY3eBsI",
+    link: "https://share.google/JxokeBNJgYYuPbWvH",
     visual: <ErpDashboardArt />,
     year: "2025",
     role: "Dashboard UX",
